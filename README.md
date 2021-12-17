@@ -1,1 +1,1 @@
-# Bioinformatika
+# Labaratorinis #1

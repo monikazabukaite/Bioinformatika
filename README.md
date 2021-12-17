@@ -6,5 +6,8 @@ Parašykite programą, kuri:
 2. Kiekvienam stop kodonui parinkti toliausiai nuo jo esanti start kodoną (su sąlyga, kad tarp jų nėra kito stop kodono)
 3. Atfiltruokite visus fragmentus ("tai būtų baltymų koduojančios sekos"), kurie trumpesni nei 100 fragmentų.
 4. Parašykite funkcijas, kurios įvertintų kodonų ir dikodonų dažnius (visi įmanomi kodonai/dikodonai ir jų atitinkamas dažnis  - gali būti nemažai nulių, jei jų sekoje nerasite).
-5. Palyginkite kodonų bei dikodonų dažnius tarp visų sekų (atstumų matrica - kokią formulę naudosite?
+5. Palyginkite kodonų bei dikodonų dažnius tarp visų sekų, atstumų matrica - kokią formulę naudosite?
 6. Įvertinkite, ar bakteriniai ir žinduoliu virusai sudaro atskirus klasterius vertinant kodonų/dikodonų dažnių aspektu.
+
+<h2>Ataskaita</h2>
+Atstumų matricai apskaičiuoti naudojau euklidinio atstumo formulę. Kaip matome iš gautų kodonų ir dikodonų dažnių klasterizavimo medžių Neighbour Joining metodu (http://www.trex.uqam.ca/index.php?action=trex&menuD=1&method=2), dažnis skiriasi.

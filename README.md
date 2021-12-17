@@ -10,4 +10,4 @@ Parašykite programą, kuri:
 6. Įvertinkite, ar bakteriniai ir žinduoliu virusai sudaro atskirus klasterius vertinant kodonų/dikodonų dažnių aspektu.
 
 <h2>Ataskaita</h2>
-Atstumų matricai apskaičiuoti naudojau euklidinio atstumo formulę. Kaip matome iš gautų kodonų ir dikodonų dažnių klasterizavimo medžių Neighbour Joining metodu (http://www.trex.uqam.ca/index.php?action=trex&menuD=1&method=2), dažnis skiriasi.
+Atstumų matricai apskaičiuoti naudojau euklidinio atstumo formulę. Kaip matome iš gautų kodonų ir dikodonų dažnių klasterizavimo medžių Neighbour Joining metodu (http://www.trex.uqam.ca/index.php?action=trex&menuD=1&method=2), dažnis tarp bakterijų ir žinduolių virusų skiriasi. Žinduolių virusai M4, M2, M1 ir bakterijų virusas B2 klasterizavosi į vieną grupę, bakterijų virusai B4, B1, B3 į kitą grupę. Labiausiai išsiskyrė žinduolių virusas M3 (Variola virusas).

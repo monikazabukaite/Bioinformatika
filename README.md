@@ -1,6 +1,6 @@
 # Labaratorinis #1
 
-Užduoties tikslas: įvertinti kodonų ir dikodonų dažnio skirtumus žinduolių ir bakterijų virusuose.
+Užduoties tikslas: įvertinti kodonų ir dikodonų dažnio skirtumus žinduolių ir bakterijų virusuose.<br/>
 Parašykite programą, kuri:  
 1. Pateiktoje sekoje fasta formatu surastų visas start ir stop kodonų poras, tarp kurių nebūtų stop kodono (ir tiesioginei sekai ir jos reverse komplementui). 
 2. Kiekvienam stop kodonui parinkti toliausiai nuo jo esanti start kodoną (su sąlyga, kad tarp jų nėra kito stop kodono)

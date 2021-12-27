@@ -14,8 +14,8 @@ Atstumų matricai apskaičiuoti naudojau euklidinio atstumo formulę. Kaip matom
 
 # Labaratorinis #2
 
-NC_045512.fasta 1 dalyje atsisiųstas nukleotidas iš NCBI.
-MN514967.1.fasta 2 dalyje atsisiųstas kupranugario virusas.
+NC_045512.fasta 1 dalyje atsisiųstas nukleotidas iš NCBI.\
+MN514967.1.fasta 2 dalyje atsisiųstas kupranugario virusas.\
 completeSequence.fasta 2 dalyje gautas genomas.
 obtainedSequence.fasta 2 dalyje, sujungus NC_045512.fasta, MN514967.1.fasta ir completeSequence.fasta, gauta seka.
 (2e) Jei šio veiksmo neatliktume, paieškos rezultatuose gautuse įvairius Covid-19 viruso variantus.

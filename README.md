@@ -31,3 +31,7 @@ generatedTree.txt - 4 dalyje su fasttree sugeneruotas medis.\
 main.ipynb – 5 dalies sprendimo kodas.
 
 (6) Iš medžių galima pastebėti, kad Covid-19 virusas yra artimas šikšnosparnių ir pangolin koronavirusams, tačiau, ar giminingas camel virusui pasakyti negalime. Jei nebūtų naudojama išorinė grupė (out-group), interpretuojama būtų kitaip, giminystės ryšiai būtų kitaip atvaizduoti. Analizuojant Urbani SARS kilmę, galime pastebėti, kad jis labiau giminingas SARS viruso variantams nei šikšnosparnio ar kupranugario virusams. Ryškaus ryšio tarp šio ir Palm Civet nėra. Palm Civet kilmė matoma, jis giminingas šikšnosparnio virusui.
+
+# Labaratorinis #3
+
+Sprendimas pateikiamas faile (NGS) duomenų analizė.docx.

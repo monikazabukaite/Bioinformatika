@@ -1,4 +1,4 @@
-# Labaratorinis #1
+# Laboratorinis #1
 
 Užduoties tikslas: įvertinti kodonų ir dikodonų dažnio skirtumus žinduolių ir bakterijų virusuose.<br/>
 Parašykite programą, kuri:  
@@ -12,7 +12,7 @@ Parašykite programą, kuri:
 <h2>Ataskaita</h2>
 Atstumų matricai apskaičiuoti naudojau euklidinio atstumo formulę. Kaip matome iš gautų kodonų ir dikodonų dažnių klasterizavimo medžių Neighbour Joining metodu (http://www.trex.uqam.ca/index.php?action=trex&menuD=1&method=2), dažnis tarp bakterijų ir žinduolių virusų skiriasi. Žinduolių virusai M4, M2, M1 ir bakterijų virusas B2 klasterizavosi į vieną grupę, bakterijų virusai B4, B1, B3 į kitą grupę. Labiausiai išsiskyrė žinduolių virusas M3 (Variola virusas).
 
-# Labaratorinis #2
+# Laboratorinis #2
 
 NC_045512.fasta 1 dalyje atsisiųstas nukleotidas iš NCBI.\
 MN514967.1.fasta 2 dalyje atsisiųstas kupranugario virusas.\
@@ -32,6 +32,6 @@ main.ipynb – 5 dalies sprendimo kodas.
 
 (6) Iš medžių galima pastebėti, kad Covid-19 virusas yra artimas šikšnosparnių ir pangolin koronavirusams, tačiau, ar giminingas camel virusui pasakyti negalime. Jei nebūtų naudojama išorinė grupė (out-group), interpretuojama būtų kitaip, giminystės ryšiai būtų kitaip atvaizduoti. Analizuojant Urbani SARS kilmę, galime pastebėti, kad jis labiau giminingas SARS viruso variantams nei šikšnosparnio ar kupranugario virusams. Ryškaus ryšio tarp šio ir Palm Civet nėra. Palm Civet kilmė matoma, jis giminingas šikšnosparnio virusui.
 
-# Labaratorinis #3
+# Laboratorinis #3
 
 Sprendimas pateikiamas faile (NGS) duomenų analizė.docx.
